@@ -1,0 +1,36 @@
+/* static/css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form label {
+    display: inline-block;
+    width: 100px;
+}
+
+form input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-weight: bold;
+}
